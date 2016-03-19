@@ -1,7 +1,7 @@
 #!/bin/bash
 #--------------------------------------------
 # 这是一个自动升级python的脚本
-# https://github.com/webfrogs/xcode_shell/blob/master/ipa-build
+# https://github.com/xbmtbc/xcode_shell/blob/master/updatepy27.sh
 # 功能：centos6.5环境升级Python2.6.6至2.7.10
 # 特色：全自动升级，不需要输入任何参数
 #--------------------------------------------
